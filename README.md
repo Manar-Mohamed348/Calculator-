@@ -15,4 +15,4 @@ A sleek, responsive calculator built with HTML, CSS, and JavaScript that perform
 
 - **HTML5**: For the calculator structure
 - **CSS3**: For styling and animations
-- **JavaScript (ES6+)**: For calculator logic and functionality
+- **JavaScript**: For calculator logic and functionality
