@@ -19,4 +19,4 @@ A sleek, responsive calculator built with HTML, CSS, and JavaScript that perform
 
 ## 🚀 Live Demo
 
-You can try the calculator live here: [https://your-github-username.github.io/calculator/](https://manar-mohamed348.github.io/Calculator-/)
+You can try the calculator live here: [Calculator live demo](https://manar-mohamed348.github.io/Calculator-/)
