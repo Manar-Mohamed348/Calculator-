@@ -2,7 +2,7 @@
 
 A sleek, responsive calculator built with HTML, CSS, and JavaScript that performs basic arithmetic operations with a clean, modern interface.
 
-![Calculator Screenshot](https://postimg.cc/bdMNQVn0) <!-- Add your screenshot if available -->
+![Calculator Screenshot](https://i.postimg.cc/BQZLfdQz/Screenshot-2025-08-21-121601.png) <!-- Add your screenshot if available -->
 
 ## Features
 
